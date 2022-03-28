@@ -1,2 +1,4 @@
-# Sample-V2
-Here you can describe briefly of what you did
+# Toolpath Generator
+Enables the creation of a CNC toolpath given a table of coordinates (yindex, ycoord, xindex, xcoord, reverse xcoord). 
+Developed with Rcode. 
+Toolpath follows a snake-like pattern. 
